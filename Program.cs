@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+    Le Huu, Etienne-Minh
+    Notes:
+        - Project > projectName Properties > Application > Output Type: = Console Application
+             Console.WriteLine()
+*/
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
